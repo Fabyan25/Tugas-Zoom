@@ -5,7 +5,7 @@
 
     $hasil = "SALAH";
     
-    if ( ($tanggal >= 20 && $tanggal <=31 && $bulan == 3) || ($tanggal >=1 && $tanggal <=19 && $bulan == 4) ) {
+    if ( ($tanggal >= 21 && $tanggal <=31 && $bulan == 3) || ($tanggal >=1 && $tanggal <=19 && $bulan == 4) ) {
         $hasil ="ARIES";
     }
 

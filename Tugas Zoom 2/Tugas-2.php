@@ -14,7 +14,7 @@
     <span class="navbar-brand  h1">Zodiak - Switch Case</span>
   </div>
 </nav>
-<h3 class="text-center mb-3">Masukkan Tanggal dan Bulan Lahir Anda</h3>
+<h3 class="text-center mb-4">Masukkan Tanggal dan Bulan Lahir Anda</h3>
 
 <!--Form-->
     <form action="" method="get">
@@ -169,8 +169,10 @@
         default:
             $hasil = 'BELUM ADA';
             break;
+     
+     echo $hasil;
     }
 }
-    echo $hasil;
+    
 
 ?>

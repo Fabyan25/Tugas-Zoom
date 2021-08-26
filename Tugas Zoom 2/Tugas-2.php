@@ -22,7 +22,7 @@
         <h4>Masukkan Tanggal :</h4>
             <label for="Masukkan Tanggal"></label>
             <input type="number" name="tgl">
-        <h4>Masukkan Bulan</h4>
+        <h4>Masukkan Bulan :</h4>
             <label for="Masukkan Bulan"></label>
             <input type="number" name="bln">
         <h6>Klik Kirim Dibawah:</h6>

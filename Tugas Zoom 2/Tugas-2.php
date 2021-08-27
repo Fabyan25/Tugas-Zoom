@@ -172,7 +172,7 @@
      
     }
     
-        echo $hasil;
+        echo '<h1>' .$hasil. '</h1>';
 
 }
     

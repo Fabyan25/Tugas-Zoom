@@ -170,8 +170,10 @@
             $hasil = 'BELUM ADA';
             break;
      
-     echo $hasil;
     }
+    
+        echo $hasil;
+
 }
     
 
